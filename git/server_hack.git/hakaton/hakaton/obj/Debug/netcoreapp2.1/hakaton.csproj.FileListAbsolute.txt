@@ -1,0 +1,42 @@
+C:\Hakaton project\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.deps.json
+C:\Hakaton project\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.runtimeconfig.json
+C:\Hakaton project\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.runtimeconfig.dev.json
+C:\Hakaton project\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.dll
+C:\Hakaton project\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.pdb
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.csprojAssemblyReference.cache
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.csproj.CoreCompileInputs.cache
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorAssemblyInfo.cache
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorAssemblyInfo.cs
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.AssemblyInfoInputs.cache
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.AssemblyInfo.cs
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorTargetAssemblyInfo.cache
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.dll
+C:\Hakaton project\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.pdb
+D:\WORK\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.deps.json
+D:\WORK\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.runtimeconfig.json
+D:\WORK\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.runtimeconfig.dev.json
+D:\WORK\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.dll
+D:\WORK\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.pdb
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.csprojAssemblyReference.cache
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.csproj.CoreCompileInputs.cache
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorAssemblyInfo.cache
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorAssemblyInfo.cs
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.AssemblyInfoInputs.cache
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.AssemblyInfo.cs
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorTargetAssemblyInfo.cache
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.dll
+D:\WORK\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.pdb
+C:\projects\hack-server\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.deps.json
+C:\projects\hack-server\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.runtimeconfig.json
+C:\projects\hack-server\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.runtimeconfig.dev.json
+C:\projects\hack-server\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.dll
+C:\projects\hack-server\hakaton\hakaton\bin\Debug\netcoreapp2.1\hakaton.pdb
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.csprojAssemblyReference.cache
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.csproj.CoreCompileInputs.cache
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorAssemblyInfo.cache
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorAssemblyInfo.cs
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.AssemblyInfoInputs.cache
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.AssemblyInfo.cs
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.RazorTargetAssemblyInfo.cache
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.dll
+C:\projects\hack-server\hakaton\hakaton\obj\Debug\netcoreapp2.1\hakaton.pdb
